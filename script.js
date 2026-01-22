@@ -30,3 +30,6 @@ lovingBtn.addEventListener("click", () => {
 
 
 
+// we can catch all emoji buttons at once
+const btns = document.querySelectorAll(".emoji-btn");
+console.log(btns);
