@@ -1,3 +1,4 @@
+🔗 **Live Demo:** [Emoji Reactor App](https://karianjahi.github.io/emoji-reactor/)
 # 😊 Emoji Reactor
 
 An interactive emoji rating app built with **HTML, CSS, and JavaScript**.
